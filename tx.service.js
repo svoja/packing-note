@@ -1,3 +1,4 @@
+#Code_by_ai_and_phanu
 const pool = require("../db/pool");
 const DEFAULT_BOX_M3 = 0.036;
 const OLLAMA_URL = process.env.OLLAMA_URL || "http://127.0.0.1:11434";
